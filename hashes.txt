@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Boots in the Rain
+
+This log tracks the cryptographic history and versioning for the song **Boots in the Rain** (boots-in-the-rain).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T15:20:19.310514 | `v1` | `b6517ef4abcf489bb759f602b8ad4e9530fa7378478b2470601ebbda87e2d59b` | `a212fe2fe5440f551d894319d0b494a02ecc0935dde0369c8ac06d6806c99a10` | `2026-05-23_boots-in-the-rain-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
