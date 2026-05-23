@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/boots-in-the-rain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Boots in the Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/boots-in-the-rain/) |
+| **Get License** | [Music Rights & Licensing for Boots in the Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/boots-in-the-rain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1981)
 
 ---
 
